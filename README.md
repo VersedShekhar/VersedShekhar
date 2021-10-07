@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @VersedShekhar
+- I am full stack developer. Like to learn new technologies.
+- ReactJS | React-Native | Javascript | Angular  | NodeJS | C# | 
+- .NET CORE | MVC | MSSQL | MySQL  | SQLite | jQuery | Agile | JIRA  
 
 
 <!---
